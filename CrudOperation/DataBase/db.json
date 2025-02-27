@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "id": "f5d5",
+      "name": "Boopathi",
+      "age": "23",
+      "gender": "male",
+      "department": "CSE",
+      "mail": "thiyagu@gmail.com"
+    },
+    {
+      "id": "baeb",
+      "name": "Boopathi",
+      "age": "23",
+      "gender": "male",
+      "department": "CSE",
+      "mail": "Boopathi&476@gmail.com"
+    },
+    {
+      "id": "cd75",
+      "name": "Boopathi",
+      "age": "22",
+      "gender": "male",
+      "department": "CSE",
+      "mail": "gokul@gmail.com"
+    },
+    {
+      "id": "223b",
+      "name": "Boopathi",
+      "age": "22",
+      "gender": "male",
+      "department": "CSE",
+      "mail": "thiyagu@gmail.com"
+    },
+    {
+      "id": "0141",
+      "name": "Boopathi",
+      "age": "22",
+      "gender": "male",
+      "department": "CSE",
+      "mail": "gokul@gmail.com"
+    },
+    {
+      "id": "cba8",
+      "name": "Boopathi",
+      "age": "22",
+      "gender": "male",
+      "department": "CSE",
+      "mail": "thiyagu@gmail.com"
+    }
+  ]
+}
